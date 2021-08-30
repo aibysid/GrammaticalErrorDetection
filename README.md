@@ -1,3 +1,5 @@
+
+Hi, My name is Siddharth Chauhan this project is part of my internship at TCSiON where I was given the task of building an algorithm to detect grammatical errors in a text data.
 # Deep Text Corrector
 
 Deep Text Corrector uses [TensorFlow](https://www.tensorflow.org/) to train sequence-to-sequence models that are capable of automatically correcting small grammatical errors in conversational written English (e.g. SMS messages). 
